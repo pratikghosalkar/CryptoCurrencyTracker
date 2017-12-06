@@ -1,5 +1,5 @@
-# CryptoCurrencyTracker
-A demo cryptocurrency app to track latets values of crypto currencies.
+# Crypto Currency Tracker
+A demo cryptocurrency app to track latest values of crypto currencies.
 
 Currency logo courtesy of : https://github.com/cjdowner/cryptocurrency-icons
 
